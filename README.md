@@ -1,4 +1,4 @@
-# InterviewTask-Android
+# Kaodim Android Engineering Technical Task
 
 Welcome to the Kaodim Android Engineering technical interview. You are required to follow the instructions stated below in order to successfully complete the technical interview.
 
