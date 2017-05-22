@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">InterviewTask</string>
+    <string name="app_name">Interview Task</string>
+
+    <string name="title_submit_details">Submit Details</string>
+
+    <string name="provide_your_nic">Provide your NIC</string>
+    <string name="nic_number">NIC number</string>
+
+    <string name="your_nationality">Your Nationality</string>
+
+    <string name="provide_your_mobile">Provide your Mobile</string>
+    <string name="mobile_number">Mobile number</string>
+
+    <string name="submit">Submit</string>
+    <string name="welcome">Welcome, </string>
+    <string name="details_submitted">Details Submitted Successfully</string>
+
 </resources>
